@@ -44,7 +44,7 @@
   background-color: #3e8e41;
 }
 .block5:hover{
-	background-color:#A9A9A9;
+	background-color:#fff;
 }
 .block{
 	color:black;
@@ -72,7 +72,7 @@
 .block2{
 	color:black;
 	font-size:.9em;
-	background-color:#fff; 
+	background-color:#A9A9A9; 
 	margin-top:2px;
 	margin-bottom:2px;
 	display:inline-block;
